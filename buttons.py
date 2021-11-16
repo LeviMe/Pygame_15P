@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import pygame, pygame.freetype
 from PIL import ImageFont, ImageDraw, Image
 
